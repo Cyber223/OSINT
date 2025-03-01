@@ -22,3 +22,6 @@ https://start.me/p/DPYPMz/the-ultimate-osint-collection
 The Cyber Mentor has great GITHUB with links to many OSINT tools.
 Here is his GitHub.
 https://github.com/TCM-Course-Resources
+
+Awesome OSINT GitHub Page
+https://github.com/jivoi/awesome-osint
