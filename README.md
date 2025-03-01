@@ -1,6 +1,8 @@
 # OSINT
 My OSINT Journey: 
+
 A couple of students turned me on to these items. Rather Dark and Disturbing.
+
 Documentary about hunting a killer
 https://www.netflix.com/title/81031373
 
