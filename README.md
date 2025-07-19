@@ -28,7 +28,7 @@ https://github.com/TCM-Course-Resources
 Awesome OSINT GitHub Page
 https://github.com/jivoi/awesome-osint
 
-Books:
 Open Source Intelligence Techniques and Extreme Privacy by Michael Bazzell
 https://inteltechniques.com/index.html
-
+Mishaal Khan is another great resource
+https://www.mishaalkhan.com/
